@@ -21,3 +21,6 @@ C:\Users\steph\Source\Repos\IdentityManagement-WebAPI-Sample\IdentityManagementS
 C:\Users\steph\Source\Repos\IdentityManagement-WebAPI-Sample\IdentityManagementSample.WebApiHost\IdentityManagementSample.WebApiHost\bin\Debug\Newtonsoft.Json.xml
 C:\Users\steph\Source\Repos\IdentityManagement-WebAPI-Sample\IdentityManagementSample.WebApiHost\IdentityManagementSample.WebApiHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
 C:\Users\steph\Source\Repos\IdentityManagement-WebAPI-Sample\IdentityManagementSample.WebApiHost\IdentityManagementSample.WebApiHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\steph\Source\Repos\IdentityManagement-WebAPI-Sample\IdentityManagement-WebAPI-Sample\IdentityManagementSample.WebApiHost\bin\Debug\IdentityManagementSample.WebApiHost.exe.config
+C:\Users\steph\Source\Repos\IdentityManagement-WebAPI-Sample\IdentityManagement-WebAPI-Sample\IdentityManagementSample.WebApiHost\obj\Debug\IdentityManagementSample.WebApiHost.exe
+C:\Users\steph\Source\Repos\IdentityManagement-WebAPI-Sample\IdentityManagement-WebAPI-Sample\IdentityManagementSample.WebApiHost\obj\Debug\IdentityManagementSample.WebApiHost.pdb
